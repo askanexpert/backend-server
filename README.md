@@ -1,5 +1,5 @@
 # Landing Page (Server)
-Server for landing page lead capture form
+Common server for landing page lead capture form & web-wallet
 
 # Running Instruction
 - Run the following script to run on localhost. Starts on port 3000

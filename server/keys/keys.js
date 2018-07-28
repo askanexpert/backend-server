@@ -1,1 +1,1 @@
-module.exports.AUTH_SECRET = "HASHING$@!!@#$ISPOWERFULIFDONEP#@!@#LY";
+module.exports.AUTH_SECRET = process.env.AUTH_SECRET;

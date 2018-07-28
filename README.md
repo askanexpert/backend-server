@@ -32,6 +32,10 @@ npm test-watch
 # Deployment Instruction
 The deployment and testing instructions for deploying to heroku can be found in [**instructions.md**](./scripts/instructions.md) inside /scripts folder.
 
+# Version
+- Version 1.0: Basic Signup and Login
+- Basic Signup and Login endpoints are working along with lead capture endpoint
+
 # Author
   - Tejas Nikumbh
     - Email: tejnikumbh@gmail.com

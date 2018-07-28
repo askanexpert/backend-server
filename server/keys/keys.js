@@ -1,0 +1,1 @@
+module.exports.AUTH_SECRET = "HASHING$@!!@#$ISPOWERFULIFDONEP#@!@#LY";
